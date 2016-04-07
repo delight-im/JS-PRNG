@@ -1,0 +1,26 @@
+{
+	"name": "@delight-im/prng",
+	"version": "1.0.0",
+	"description": "Pseudorandom number generator (PRNG) for JavaScript",
+	"main": "src/Prng.js",
+	"license": "Apache-2.0",
+	"author": "delight.im",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/delight-im/JS-PRNG.git"
+	},
+	"keywords": [
+		"prng",
+		"pseudo",
+		"random",
+		"pseudo-random",
+		"number",
+		"generator",
+		"seedable",
+		"seeded"
+	],
+	"bugs": {
+		"url": "https://github.com/delight-im/JS-PRNG/issues"
+	},
+	"homepage": "https://github.com/delight-im/JS-PRNG#readme"
+}

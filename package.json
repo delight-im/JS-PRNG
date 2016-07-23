@@ -3,7 +3,7 @@
 	"version": "1.0.0",
 	"description": "Pseudorandom number generator (PRNG) for JavaScript",
 	"main": "src/Prng.js",
-	"license": "Apache-2.0",
+	"license": "MIT",
 	"author": "delight.im",
 	"repository": {
 		"type": "git",
